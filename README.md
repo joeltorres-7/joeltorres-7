@@ -4,7 +4,7 @@
 
 ### Who am I? 👨‍💻
 
-I am 19-year-old Developer, Designer and Illustrator who loves creating things that help other people learn new skills.
+I'm a 19-year-old Developer, Designer and Illustrator who loves creating things that help others learn new skills.
 
 ### Facts about me:
 

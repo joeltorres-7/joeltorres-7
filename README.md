@@ -23,7 +23,7 @@ I'm a 19-year-old Developer, Designer and Illustrator who loves creating things 
 
 **Design**
 
-<img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/>&nbsp;<img src="https://img.icons8.com/color/46/000000/figma--v1.png"/>&nbsp;
+<img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/>&nbsp;<img src="https://i.ibb.co/gdfF4TR/index-48x48.png" alt="index-48x48" border="0">&nbsp;<img src="https://img.icons8.com/color/46/000000/figma--v1.png"/>&nbsp;
 
 ### 🔥 My Stats 🔥
 

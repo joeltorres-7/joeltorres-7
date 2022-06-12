@@ -8,11 +8,11 @@ I'm a 19-year-old Developer, Designer and Illustrator who loves creating things 
 
 ### Facts about me:
 
-- 🔭 I’m currently working on Gengo Project, a personal project to help people learn any language and reach fluency in 4 months or less.
-- 🌱 I’m currently learning Vue.js and Animation through Adobe After Effects ✏️
-- 🌎 I can speak English, Spanish, Japanese and Italian, I love learning about different cultures by learning their language ❤️🇯🇵
+- 🔭 I’m currently working on MinCal and Gengo Project, a personal project to help people learn any language and reach fluency in 4 months or less.
+- 🌱 I’m currently learning Nuxt.js and Animation through Adobe After Effects ✏️
+- 🌎 I can speak English, Spanish, Japanese and Italian. I love learning about different cultures by learning their language ❤️🇯🇵
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love cats so much I made the mascot of my project, Gengo, a cat as well. I called it, Gengo the Cat 🐱
+- ⚡ Fun fact: I like cats so much I made the mascot of my project, Gengo, a cat as well. I called it, Gengo the Cat 🐱
 
 ### 💻 Technologies I'd Worked With 💻
 

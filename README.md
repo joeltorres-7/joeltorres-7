@@ -46,7 +46,7 @@ I'm a 20-year-old Developer, Designer and Illustrator who loves creating things 
     <img src="https://i.ibb.co/fGDqKNx/minimal-dribbble-28px.png" alt="minimal-dribbble" border="0">
   </a>
   &nbsp;&nbsp;
-  <a href="hhttps://twitter.com/_thisisjoel">
+  <a href="https://twitter.com/_thisisjoel">
     <img src="https://i.ibb.co/0fMZqbt/minimal-twitter-28px.png" alt="minimal-twitter" border="0">
   </a>
 </div>

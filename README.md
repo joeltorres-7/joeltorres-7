@@ -8,18 +8,18 @@ I'm a 20-year-old Developer, Designer and Illustrator who loves creating things 
 
 ### Facts about me:
 
-- 🔭 I’m currently working on MinCal and Gengo Project, a personal project to help people learn any language and reach fluency in 4 months or less.
-- 🌱 I’m currently learning Nuxt.js and Animation through Adobe After Effects ✏️
+- 🔭 I’m currently working on PocketTasks, a To-Do that actually helps you get your tasks done :)
+- 🌱 I’m currently improving my skills on Flutter and learning Animation through Adobe After Effects ✏️
 - 🌎 I can speak English, Spanish, Japanese and Italian. I love learning about different cultures by learning their language ❤️🇯🇵
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like cats so much I made the mascot of my project, Gengo, a cat as well. I called it, Gengo the Cat 🐱
+- ⚡ Fun fact: I like cats 🐱
 
 ### 💻 Technologies I'd Worked With 💻
 
 **Development**
 </br>
 
-&nbsp;<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/python--v1.png"/><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/react-native.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/vue-js.png"/><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png"/>&nbsp;<img src="https://img.icons8.com/fluency/48/000000/gatsbyjs.png"/>&nbsp;&nbsp;<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>&nbsp;&nbsp;<img src="https://img.icons8.com/color/48/000000/npm.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/css3.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/sass.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/git.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/github--v1.png"/>&nbsp;
+&nbsp;<img src="https://img.icons8.com/fluency/46/flutter.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/python--v1.png"/><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>&nbsp;<img src="https://img.icons8.com/color/48/angularjs.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/react-native.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/vue-js.png"/><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png"/>&nbsp;<img src="https://img.icons8.com/fluency/48/000000/gatsbyjs.png"/>&nbsp;&nbsp;<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>&nbsp;&nbsp;<img src="https://img.icons8.com/color/48/000000/npm.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/css3.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/sass.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/git.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/github--v1.png"/>&nbsp;
 
 **Design**
 
@@ -46,7 +46,7 @@ I'm a 20-year-old Developer, Designer and Illustrator who loves creating things 
     <img src="https://i.ibb.co/fGDqKNx/minimal-dribbble-28px.png" alt="minimal-dribbble" border="0">
   </a>
   &nbsp;&nbsp;
-  <a href="hhttps://twitter.com/JoelTorres_7">
+  <a href="hhttps://twitter.com/_thisisjoel">
     <img src="https://i.ibb.co/0fMZqbt/minimal-twitter-28px.png" alt="minimal-twitter" border="0">
   </a>
 </div>

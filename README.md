@@ -1,14 +1,12 @@
-![animated-header](./header/anim-header.gif?raw=true)
-
-## Hi there! This is Joel! ✨✏️
+## Hi there! This is Hyoujin! ✨✏️
 
 ### Who am I? 👨‍💻
 
-I'm a 21-year-old Developer, Designer and Illustrator who loves creating things that help others learn new skills.
+I'm a Developer, Designer and Illustrator who loves creating things that help others learn new skills.
 
 ### Facts about me:
 
-- 🔭 I’m currently working on PocketTasks, a To-Do that actually helps you get your tasks done :)
+- 🔭 I’m currently working on Movilidad UP, an attendance and informational app used by the users of the SIMUP in the University of Pamplona, Colombia :)
 - 🌱 I’m currently improving my skills on Flutter and learning Animation through Adobe After Effects ✏️
 - 🌎 I can speak English, Spanish, Japanese and Italian. I love learning about different cultures by learning their language ❤️🇯🇵
 - 😄 Pronouns: He/Him
@@ -38,15 +36,7 @@ I'm a 21-year-old Developer, Designer and Illustrator who loves creating things 
     <img src="https://img.icons8.com/color/28/000000/linkedin.png" alt="minimal-linkedin-28px" border="0">
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.behance.net/joeltorres-7">
+  <a href="https://www.behance.net/hyoujin">
     <img src="https://i.ibb.co/98FrCTS/minimal-behance-28px.png" alt="minimal-behance-28px" border="0">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://dribbble.com/joeltorres">
-    <img src="https://i.ibb.co/fGDqKNx/minimal-dribbble-28px.png" alt="minimal-dribbble" border="0">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/_thisisjoel">
-    <img src="https://i.ibb.co/0fMZqbt/minimal-twitter-28px.png" alt="minimal-twitter" border="0">
   </a>
 </div>
